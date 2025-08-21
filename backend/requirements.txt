@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python
+Pillow
+pdf2image
+tensorflow
+numpy
+python-jose[cryptography]
